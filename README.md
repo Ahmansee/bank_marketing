@@ -41,6 +41,8 @@ The purpose of the analysis is to **predict whether a client will subscribe to a
 4. Longer call durations correlate with higher subscription rates because interested clients engage more, but this could also be a result of the outcome (interested clients stay longer).  
 7. Weekdays (Tuesday, Wednesday) have higher subscription rates than weekends because clients are more available and engaged during workdays.  
 8. Calls during working hours (10 AM - 4 PM) are more successful because clients are more likely to answer and engage during these times.  
+
+- <a href="https://github.com/Ahmansee/bank_marketing/blob/main/bank%20marketing%20with%20power%20bi.pdf">view</a>
  
 ## Conclusion:
 The analysis shows that middle-aged clients (40-50) are more likely to subscribe to term deposits due to their financial stability, while younger clients (20-30) with lower disposable income are less likely. High-income professionals (e.g., managers, engineers) and highly educated individuals show higher subscription rates because they have more resources and financial awareness. Longer call durations correlate with higher subscriptions, but this should be used cautiously due to ethical concerns. Campaigns are more successful on weekdays (especially Tuesday and Wednesday) and during working hours (10 AM - 4 PM). Moderate contact frequency (3-5 contacts) maximizes results, while excessive contacts reduce effectiveness. Ensuring data quality by handling missing or inconsistent values is critical for accurate analysis and improved campaign outcomes
